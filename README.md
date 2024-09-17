@@ -1,11 +1,9 @@
-[![MasterHead](https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0)](https://www.youtube.com/@PythonDev-zv1kt)
 <h1 align="center">Hi 👋, I'm Ali Hamza Shabbir</h1>
 <h3 align="center">Programmer from Pakistan, creating simple solutions through code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihamza-lab&label=Profile%20views&color=0e75b6&style=flat" alt="alihamza-lab" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alieveryone2346" target="blank"><img src="https://img.shields.io/twitter/follow/alieveryone2346?logo=twitter&style=for-the-badge" alt="alieveryone2346" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DJANGO,LANGCHAIN,DSA,**
 
@@ -17,9 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alieveryone2346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alieveryone2346" height="30" width="40" /></a>
-<a href="https://fb.com/ali hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali hamza" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@pythondev-zv1kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pythondev-zv1kt" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100094269853332&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100094269853332&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@pythondev-zv1kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pythondev-zv1kt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
