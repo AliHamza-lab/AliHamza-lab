@@ -1,5 +1,3 @@
-[![MasterHead](https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0)](https://www.youtube.com/@PythonDev-zv1kt)
-
 <h1 align="center">Hi 👋, I'm Ali Hamza Shabbir</h1>
 <h3 align="center">Programmer from Pakistan, creating simple solutions through code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
