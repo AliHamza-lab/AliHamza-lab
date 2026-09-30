@@ -1,17 +1,17 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c2a8&height=220&section=header&text=Ali%20Hamza%20Shabbir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20from%20Pakistan%20%7C%20Creating%20simple%20solutions%20through%20code&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0e75b6,100:00c2a8&height=240&section=header&text=Ali%20Hamza%20Shabbir&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Automation%20Engineer%20%7C%20Python%20Full-Stack%20Developer&descAlignY=64&descSize=19" alt="Header banner" width="100%"/>
 
-<a href="https://github.com/alihamza-lab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Developer;Full-Stack+Web+Enthusiast;Learning+Django+%26+LangChain;Problem+Solver+%7C+DSA+Learner" alt="Typing animation" />
+<a href="https://alihamza-tech.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C2A8&center=true&vCenter=true&width=700&lines=Building+AI+chatbots+%26+automation+tools;Python+%7C+Django+%7C+React;Web+scraping+%26+data+pipelines;Creating+simple+solutions+through+code" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alihamza-lab&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/alihamza-lab?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
-<img src="https://img.shields.io/badge/Location-Pakistan-00c2a8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-alihamza--tech.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://alihamza-tech.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ah3418678%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah3418678@gmail.com)
+[![Followers](https://img.shields.io/github/followers/alihamza-lab?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/alihamza-lab?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=alihamza-lab&label=Profile%20views&color=00c2a8&style=for-the-badge)
 
 </div>
 
@@ -19,13 +19,51 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate programmer who enjoys turning ideas into clean, working software. I focus on writing simple, readable code and I'm always exploring new technologies to grow as a developer.
+I'm a **Computer Science undergraduate** and **Python developer from Pakistan** with **2+ years of freelance experience** and **15+ custom projects** delivered to international clients. I turn ideas into clean, reliable software, from automation scripts and AI chatbots to full-stack web apps.
 
-- 🌱 **Currently learning:** Django · LangChain · Data Structures & Algorithms
-- 💬 **Ask me about:** Python · HTML · CSS · JavaScript · Java · C++ · C
-- 🎯 **Goal:** Build scalable web applications and AI-powered tools
-- 📫 **Reach me at:** [everyone2346@gmail.com](mailto:everyone2346@gmail.com)
-- ⚡ **Fun fact:** I once built a small app to track my coffee consumption. Turns out coding with caffeine makes everything more fun! ☕
+<table>
+<tr>
+<td width="55%" valign="top">
+
+🌱 **Currently learning**
+Django · LangChain · Data Structures & Algorithms
+
+💬 **Ask me about**
+Python · HTML · CSS · JavaScript · Java · C++ · C
+
+🎯 **Goal**
+Build scalable web applications and AI-powered tools
+
+⚡ **Fun fact**
+I once built an app to track my coffee consumption. Coding with caffeine makes everything more fun! ☕
+
+</td>
+<td width="45%" valign="top">
+
+```yaml
+name: Ali Hamza Shabbir
+role: Python & AI Developer
+location: Pakistan
+experience: 2+ years (freelance)
+projects: 15+ delivered
+status: Open to opportunities
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 What I Do
+
+| | Focus | Details |
+| :---: | :--- | :--- |
+| ⚙️ | **Python & Process Automation** | Custom scripts, task schedulers, and background workers |
+| 🤖 | **AI Chatbots & RAG Agents** | LLM-powered conversational agents with Retrieval-Augmented Generation |
+| 🕸️ | **Web Scraping & Data Crawlers** | Selenium and BeautifulSoup extraction pipelines |
+| 🧱 | **Django REST Backends** | Scalable APIs, PostgreSQL modeling, secure architecture |
+| ⚛️ | **React Front Ends** | Responsive interfaces with clean design and micro-interactions |
 
 ---
 
@@ -49,6 +87,18 @@ I'm a passionate programmer who enjoys turning ideas into clean, working softwar
 
 ---
 
+## 📂 Featured Projects
+
+| Project | Description | Case Study |
+| :--- | :--- | :---: |
+| 🔐 **Face Lock Using CV2** | Facial recognition security lock built with OpenCV and Python | [Read →](https://alihamza-tech.vercel.app/projects/face-lock-cv2) |
+| 📦 **SQL Inventory System** | Warehouse stock tracking with automated low-stock alerts | [Read →](https://alihamza-tech.vercel.app/projects/sql-inventory-system) |
+| 🎙️ **Video Transcription** | Audio extraction and translation using AI speech-to-text models | [Read →](https://alihamza-tech.vercel.app/projects/video-transcription-code) |
+
+👉 See more on my [portfolio](https://alihamza-tech.vercel.app/projects).
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -60,7 +110,18 @@ I'm a passionate programmer who enjoys turning ideas into clean, working softwar
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihamza-lab&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alihamza-lab&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
+
 </div>
+
+---
+
+## ✍️ Latest from My Blog
+
+- 📝 [Building Production-Grade AI Chatbots with Python & Django](https://alihamza-tech.vercel.app/blog/building-ai-chatbots-python-django)
+- 📝 [Mastering Web Scraping with Selenium & BeautifulSoup](https://alihamza-tech.vercel.app/blog/web-scraping-selenium-beautifulsoup)
 
 ---
 
@@ -78,15 +139,13 @@ I'm a passionate programmer who enjoys turning ideas into clean, working softwar
 
 <div align="center">
 
-<a href="mailto:everyone2346@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.youtube.com/@pythondev-zv1kt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.facebook.com/profile.php?id=100094269853332"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://github.com/alihamza-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+Have a project in mind? Let's build it together.
 
-<br/><br/>
+[![Email me](https://img.shields.io/badge/Email%20Me-ah3418678%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah3418678@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://alihamza-tech.vercel.app/)
 
 *⭐ If you like my work, feel free to star a repository or say hello!*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c2a8&height=120&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:00c2a8&height=120&section=footer" alt="Footer" width="100%"/>
